@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "inference-router"
+version = "1.0.0"
+description = "Deterministic offline routing from explicit task requirements"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+ir = "inference_router.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["inference_router*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,201 @@
+# SYNTHETIC fixture data; no real prompts
+{"expected_route": "small", "id": "fixture-000", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-001", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-002", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-003", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-004", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-005", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-006", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-007", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-008", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-009", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-010", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-011", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-012", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-013", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-014", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-015", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-016", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-017", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-018", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-019", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-020", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-021", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-022", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-023", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-024", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-025", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-026", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-027", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-028", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-029", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-030", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-031", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-032", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-033", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-034", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-035", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-036", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-037", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-038", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-039", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-040", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-041", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-042", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-043", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-044", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-045", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-046", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-047", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-048", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-049", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-050", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-051", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-052", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-053", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-054", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-055", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-056", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-057", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-058", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-059", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-060", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-061", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-062", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-063", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-064", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-065", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-066", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-067", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-068", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-069", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-070", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-071", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-072", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-073", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-074", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-075", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-076", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-077", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-078", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-079", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-080", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-081", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-082", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-083", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-084", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-085", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-086", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-087", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-088", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-089", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-090", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-091", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-092", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-093", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-094", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-095", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-096", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-097", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-098", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-099", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-100", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-101", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-102", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-103", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-104", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-105", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-106", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-107", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-108", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-109", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-110", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-111", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-112", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-113", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-114", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-115", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-116", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-117", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-118", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-119", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-120", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-121", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-122", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-123", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-124", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-125", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-126", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-127", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-128", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-129", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-130", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-131", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-132", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-133", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-134", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-135", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-136", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-137", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-138", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-139", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-140", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-141", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-142", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-143", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-144", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-145", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-146", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-147", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-148", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-149", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-150", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-151", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-152", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-153", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-154", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-155", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-156", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-157", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-158", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-159", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-160", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-161", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-162", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-163", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-164", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-165", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-166", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-167", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-168", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-169", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-170", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-171", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-172", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-173", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-174", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-175", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-176", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-177", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-178", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-179", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-180", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-181", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-182", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-183", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-184", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-185", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-186", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-187", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-188", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-189", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-190", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-191", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-192", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-193", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-194", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}
+{"expected_route": "small", "id": "fixture-195", "prompt": "Say hello", "requires_code": false, "requires_reasoning": false, "steps": 1, "synthetic": true}
+{"expected_route": "small", "id": "fixture-196", "prompt": "Summarise a short note", "requires_code": false, "requires_reasoning": false, "steps": 2, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-197", "prompt": "Explain a logical deduction", "requires_code": false, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "medium", "id": "fixture-198", "prompt": "Write and explain a function", "requires_code": true, "requires_reasoning": true, "steps": 1, "synthetic": true}
+{"expected_route": "large", "id": "fixture-199", "prompt": "Design and verify a parser", "requires_code": true, "requires_reasoning": true, "steps": 2, "synthetic": true}

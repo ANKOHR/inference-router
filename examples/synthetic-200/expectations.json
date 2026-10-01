@@ -1,0 +1,16 @@
+{
+  "false_positives": 0,
+  "labelled": 200,
+  "matches": 200,
+  "mismatches": 0,
+  "real_count": 0,
+  "routes": {
+    "large": 40,
+    "medium": 80,
+    "small": 80
+  },
+  "score_total": 680,
+  "synthetic": true,
+  "synthetic_count": 200,
+  "total": 200
+}

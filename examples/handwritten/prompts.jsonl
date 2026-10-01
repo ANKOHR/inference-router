@@ -1,0 +1,6 @@
+# SYNTHETIC hand-written five-record example; no real prompts
+{"id":"hello","prompt":"Say hello","synthetic":true,"steps":1,"requires_reasoning":false,"requires_code":false,"expected_route":"small"}
+{"id":"note","prompt":"Summarise a note","synthetic":true,"steps":2,"requires_reasoning":false,"requires_code":false,"expected_route":"small"}
+{"id":"logic","prompt":"Explain a deduction","synthetic":true,"steps":1,"requires_reasoning":true,"requires_code":false,"expected_route":"medium"}
+{"id":"function","prompt":"Write and explain a function","synthetic":true,"steps":1,"requires_reasoning":true,"requires_code":true,"expected_route":"medium"}
+{"id":"parser","prompt":"Design and verify a parser","synthetic":true,"steps":2,"requires_reasoning":true,"requires_code":true,"expected_route":"large"}

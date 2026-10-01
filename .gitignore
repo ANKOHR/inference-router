@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.ir-results.json
+demo/
+real-trials/
+inference-router-codex.log
+inference-router-launch.py
+inference-router-prompt.txt
