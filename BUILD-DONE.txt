@@ -1,0 +1,9 @@
+Inference Router build complete
+Test count: 46 passed (pytest).
+Local implementation commit hash: b91c181034aa37892bb6549f632b1be4522afda9
+Branch: main
+Measured 200-record fixture/run/Markdown report demo: 0.834393 seconds.
+
+Built an offline, CPU-only Python ir CLI with fixtures, run, report, route and policy commands; pure deterministic routing from declared complexity requirements; synthetic-labelled 200-record fixtures and a hand-written five-record input; independent hand-computed expectations; provenance-bearing Markdown/JSON reports and atomic local writes. Tests cover exact reconciliation, corrupted ground truth, malformed input, adversarial values, Unicode, determinism and named failures. README, lessons, reproducible evidence and the two-week improvement hook are included. Model capabilities and savings are explicitly unmeasured. The final usage verdict is pending real evidence. No publishing was performed.
+
+The implementation hash above identifies the completed code and evidence. This completion record is committed separately so it can reference that existing commit without a self-referential hash.
